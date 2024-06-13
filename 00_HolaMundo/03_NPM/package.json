@@ -1,0 +1,23 @@
+{
+  "name": "primeros-pasos-npm",
+  "version": "1.0.0",
+  "description": "en este proyecto aprendemos NPM",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Castañeda <leocastaeda11@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "react": "^18.3.1",
+    "responsimple": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "sass": "^1.77.5",
+    "serve": "^14.2.3"
+  }
+}
